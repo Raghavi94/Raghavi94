@@ -1,4 +1,4 @@
-### Hi there, This is Raghavi <img src="https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308" width="22px>
+### Hi there, This is Raghavi 👋 
 
 
 [![Twitter Follow](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/raghavi-srinivasan-747b96172/)
