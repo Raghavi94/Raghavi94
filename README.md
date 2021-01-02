@@ -6,9 +6,9 @@
 ## I'm just trying to master the best of what others have already figured out!
 
 - 🔭 I’m currently pursuing my 3 rd year BE at Sri Venkateswara College of Engineering,Sriperumbudur.
-- 🌱 I’m currently learning Web Development and Python.
+- 🌱 I’m currently learning Web Development and Python. 
 - 👯 I’m looking to collaborate with like minded people and build something valuable to the community.
-- 🥅 2020 Goals: To be skilled in Front End Web Development and build some cool projects with what I have learnt so far..
+- 🥅 2020 Goals: To be skilled in Front End Web Development and build some cool projects with what I have learnt so far.
 
 
 
