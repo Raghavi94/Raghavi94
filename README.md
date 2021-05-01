@@ -3,6 +3,8 @@
 
 [![Twitter Follow](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/raghavi-srinivasan-747b96172/)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Raghavi94&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+
 ## I'm just trying to master the best of what others have already figured out!
 
 - 🔭 I’m currently pursuing my 3 rd year BE ECE at Sri Venkateswara College of Engineering,Sriperumbudur.
