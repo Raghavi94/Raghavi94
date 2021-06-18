@@ -23,6 +23,8 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Website" width="22px" src="https://cdn1.iconfinder.com/data/icons/web-develover-1/32/web-512.png" />][website]
+[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
+[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
 
 
@@ -58,6 +60,8 @@
 [linkedin]: https://www.linkedin.com/in/raghavi-srinivasan-747b96172/
 [hackerrank]:https://www.hackerrank.com/raghaveni50
 [website]:https://raghavi-srinivasan.netlify.app/
+[geeksforgeeks]:https://auth.geeksforgeeks.org/user/raghaveni50/practice/
+[leetcode]:https://leetcode.com/Raghavi_01/
 
 
 
