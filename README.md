@@ -1,4 +1,4 @@
-### Hi there, This is Raghavi 👋 
+## Hi there, This is Raghavi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 
 [![Twitter Follow](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/raghavi-srinivasan-747b96172/)
