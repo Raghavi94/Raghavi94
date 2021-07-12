@@ -14,7 +14,6 @@
 
 
 
-
 ### Connect with me:
 
 
@@ -62,6 +61,15 @@
 [website]:https://raghavi-srinivasan.netlify.app/
 [geeksforgeeks]:https://auth.geeksforgeeks.org/user/raghaveni50/practice/
 [leetcode]:https://leetcode.com/Raghavi_01/
+
+
+```python
+while life:
+    eat(food)
+    sleep(dreams)
+    code(ideas)   
+    
+```  
 
 
 
