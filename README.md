@@ -10,7 +10,7 @@
 - 🔭 I’m currently pursuing my final year BE ECE at Sri Venkateswara College of Engineering,Sriperumbudur.
 - 🌱 I’m currently learning Web Development. 
 - 👯 I’m looking to collaborate with like minded people and build something valuable to the community.
-- 🥅 2022 Goals: To be skilled in Front End Web Development and looking for good opportunities to showcase my talent. 
+- 🥅 2023 Goals: To be skilled in Front End Web Development and looking for good opportunities to showcase my talent. 
 
 
 
